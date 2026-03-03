@@ -34,7 +34,7 @@ const Header = () => {
             </div>
             <div className='tag-cmp app__flex'>
               <p className='p-text'>SDET/QA Engineer with</p>
-              <p className='p-text'>5.5 Years of Experience</p>
+              <p className='p-text'>6 Years of Experience</p>
             </div>
           </div>
         </motion.div>
