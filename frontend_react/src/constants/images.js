@@ -37,7 +37,7 @@ import spotify from '../assets/spotify.png';
 import appium from '../assets/appium.png';
 import selenium from '../assets/selenium.png';
 
-export default {
+const images = {
   email,
   mobile,
   api,
@@ -74,3 +74,5 @@ export default {
   appium,
   selenium,
 };
+
+export default images;
