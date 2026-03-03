@@ -8,17 +8,17 @@ const SocialMedia = () => {
   return (
     <div className='app__social'>
     <div>
-      <a href='https://www.linkedin.com/in/manjunath-h-k-ab30b1146/'>
+      <a href='https://www.linkedin.com/in/manjunath-h-k-ab30b1146/' aria-label='LinkedIn profile'>
         <BsLinkedin />
       </a>
     </div>
     <div>
-      <a href='https://github.com/manjunathk833'>
+      <a href='https://github.com/manjunathk833' aria-label='GitHub profile'>
         <BsGithub />
       </a>
     </div>
     <div>
-      <a href='mailto:manjunathhk833@gmail.com'>
+      <a href='mailto:manjunathhk833@gmail.com' aria-label='Send email'>
         <SiGmail />
       </a>
     </div>
